@@ -17,7 +17,7 @@ function AppContent() {
         <div className="header-left">
           <span className="header-trophy">🏆</span>
           <div>
-            <h1 className="header-title">World Cup 2026</h1>
+            <h1 className="header-title">A Home of Carlsberg World Cup 2026 Predictions Game</h1>
             <p className="header-sub">Tips & Predictions</p>
           </div>
         </div>
